@@ -4,7 +4,6 @@
 <br />
 <div align="center">
   <a href="https://github.com/axmedmaxamuud/Food-Security-and-Nutrition-Indicators/tree/outcome_indicators">
-    <img src="https://www.logolynx.com/images/logolynx/7d/7d367ac0ebaaa392368867172c5dad66.jpeg" alt="Logo">
   </a>
 
 <h3 align="center">WFP CRF Outome Indicators</h3>
