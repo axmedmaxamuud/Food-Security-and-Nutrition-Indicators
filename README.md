@@ -1,4 +1,32 @@
-## Food Security Indicators
+<div id="top"></div>
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/axmedmaxamuud/Food-Security-and-Nutrition-Indicators/tree/outcome_indicators">
+    <img src="https://www.logolynx.com/images/logolynx/7d/7d367ac0ebaaa392368867172c5dad66.jpeg" alt="Logo">
+  </a>
+
+<h3 align="center">WFP CRF Outome Indicators</h3>
+
+  <p align="center">
+    Analysis scripts for outcome idicators 
+  </p>
+</div>
+
+<!-- ROADMAP -->
+## Roadmap
+
+- [x] Food Security and Essential Needs
+    - [x] Food Consumption Score
+    - [x] Food Consumption Score - Nutrition
+    - [x] Consumption based copping index
+    - [x] Livelihood copping strategies for food security
+    - [x] Livelihood copping strategies for essential needs
+    - [x] Economic capacity to meet essential needs
+
+<!-- Resources -->
+## Food Security Indicators - Resource
 -	FCS Score, FCS Classification
     - source: https://docs.wfp.org/api/documents/WFP-0000141917/download/
 -	FCS-N Score, FCS-N Classification
@@ -20,44 +48,3 @@
 -	CARI Classification 
     - source: https://docs.wfp.org/api/documents/WFP-0000134704/download/?_ga=2.35141089.1974247889.1661245240-2087738911.1659422870
 
-## Nutrition and IYCF Indicators
--	EvBF Classification
-    - source: https://www.who.int/publications-detail-redirect/9789240018389
--	EIBF Classification
-    - source: https://www.who.int/publications-detail-redirect/9789240018389
--	EBF2D Classification
-    - source: https://www.who.int/publications-detail-redirect/9789240018389
--	EBF Classification
-    - source: https://www.who.int/publications-detail-redirect/9789240018389
--	MixMF Classification
-    - source: https://www.who.int/publications-detail-redirect/9789240018389
--	CBF Classification
-    - source: https://www.who.int/publications-detail-redirect/9789240018389
--	ISSSF Classification
-    - source: https://www.who.int/publications-detail-redirect/9789240018389
--	MDD Classification
-    - source: https://www.who.int/publications-detail-redirect/9789240018389
--	MMF Classification
-    - source: https://www.who.int/publications-detail-redirect/9789240018389
--	MMFF Classification
-    - source: https://www.who.int/publications-detail-redirect/9789240018389
--	MAD Classification
-    - source: https://www.who.int/publications-detail-redirect/9789240018389
--	EFF Classification
-    - source: https://www.who.int/publications-detail-redirect/9789240018389
--	SwB Classification
-    - source: https://www.who.int/publications-detail-redirect/9789240018389
--	UFC Classification
-    - source: https://www.who.int/publications-detail-redirect/9789240018389
--	ZVF Classification
-    - source: https://www.who.int/publications-detail-redirect/9789240018389
--	BoF Classification
-    - source: https://www.who.int/publications-detail-redirect/9789240018389
--	AG Classification
-    - source: https://www.who.int/publications-detail-redirect/9789240018389
--	MAM - MUAC Classification, MAM - WHZ Classification
-    - source: https://www.humanitarianresponse.info/sites/www.humanitarianresponse.info/files/documents/files/cmam_guidelines_book_print.pdf
--	SAM - MUAC Classification, SAM - WHZ Classification, SAM - BP Classification
-    - source: https://www.humanitarianresponse.info/sites/www.humanitarianresponse.info/files/documents/files/cmam_guidelines_book_print.pdf
--	GAM Classification
-    - source: https://www.humanitarianresponse.info/sites/www.humanitarianresponse.info/files/documents/files/cmam_guidelines_book_print.pdf
